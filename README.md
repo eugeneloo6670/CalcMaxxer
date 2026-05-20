@@ -2,7 +2,6 @@
 
 A paywalled scientific calculator desktop app built with Electron, React, and Stripe. A joke/parody project.
 
-## Preview
 ![CalcMaxxing preview](assets/CalcMaxxing.png)
 
 ## Features
