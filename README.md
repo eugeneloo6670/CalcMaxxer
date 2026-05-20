@@ -1,10 +1,10 @@
 # CalcMax™ Enterprise Scientific Calculator
 
-A paywalled scientific calculator desktop app built with Electron, React, and Stripe. A joke/parody project.
+A paywalled scientific calculator desktop app built with Electron, React, and Stripe. **A joke/parody project.**
 
 ![CalcMaxxing preview](assets/CalcMaxxing.png)
 
-## Phony Reviews
+## Reviews
 
 > ⭐⭐⭐⭐⭐ "I typed `2 + 2`, paid $0.99, and received `4`. Worth every cent. Possibly too cheap."
 > Melissa, Verified Math Enjoyer
@@ -18,8 +18,8 @@ A paywalled scientific calculator desktop app built with Electron, React, and St
 > ⭐⭐⭐⭐⭐ "Finally, a scientific calculator with the confidence of a luxury watch and the business model of airport Wi-Fi."
 > Anonymous CFO
 
-> ⭐☆☆☆☆ "I tried to cancel my Annual CalcMax subscription and now there's a black SUV outside my hous"
-> Martin, Former Free Trial User
+> ⭐☆☆☆☆ "This is a scam. I entered my card once and now the app keeps buying premium calculator skins. I tried to cancel, and now there's a black SUV outside my hous"
+> Jefrieque Ebbstein, Former Financier
 
 ## Features
 - Full scientific calculator (trig, log, factorial, etc.)
