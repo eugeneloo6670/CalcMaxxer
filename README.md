@@ -7,19 +7,24 @@ A paywalled scientific calculator desktop app built with Electron, React, and St
 ## Reviews
 
 > ⭐⭐⭐⭐⭐ "I typed `2 + 2`, paid $0.99, and received `4`. Worth every cent. Possibly too cheap."
-> Melissa, Verified Math Enjoyer
+>
+> **Melissa, Verified Math Enjoyer**
 
 > ⭐⭐⭐⭐⭐ "It's not a calculator. It's a payment experience that occasionally does math."
-> Steven Jobbë, Turtleneck Visionary
+>
+> **Steven Jobbë, Turtleneck Visionary**
 
 > ⭐⭐⭐⭐⭐ "CalcMax is inevitable. The button economy has arrived. I am redirecting three factories toward premium equals-sign production."
-> Yi Liang Musk, CEO of Several Things
+>
+> **Yi Liang Musk, CEO of Several Things**
 
 > ⭐⭐⭐⭐⭐ "Finally, a scientific calculator with the confidence of a luxury watch and the business model of airport Wi-Fi."
-> Anonymous CFO
+>
+> **Anonymous CFO**
 
 > ⭐☆☆☆☆ "This is a scam. I entered my card once and now the app keeps buying premium calculator skins. I tried to cancel, and now there's a black SUV outside my hous"
-> Jefrieque Ebbstein, Former Financier
+>
+> **Jefrieque Ebbstein, Former Financier**
 
 ## Features
 - Full scientific calculator (trig, log, factorial, etc.)
