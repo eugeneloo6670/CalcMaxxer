@@ -1,10 +1,10 @@
 // server.js
 // Express server for CalcMax™ – creates Stripe PaymentIntents in test mode
-// Replace STRIPE_TEST_SECRET_KEY with your actual test secret key
+// Set STRIPE_SECRET_KEY as an environment variable in Railway — never hardcode it
 
 const express = require('express');
 const cors = require('cors');
-const stripe = require('stripe')('STRIPE_TEST_SECRET_KEY'); // ← replace with your key
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 const app = express();
 
@@ -38,7 +38,7 @@ app.post('/create-payment-intent', async (req, res) => {
   }
 });
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  console.log(`CalcMax payment backend running on http://localhost:${PORT}`);
+  console.log(`CalcMax payment backend running on port ${PORT}`);
 });

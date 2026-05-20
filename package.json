@@ -1,19 +1,15 @@
 {
-  "name": "calcmax",
+  "name": "calcmaxxer",
   "version": "1.0.0",
   "description": "CalcMax™ Enterprise Scientific Calculator",
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
-    "start": "electron .",
-    "server": "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {
-    "electron": "^42.2.0"
-  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
