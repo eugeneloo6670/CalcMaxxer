@@ -2,6 +2,8 @@
 
 A paywalled scientific calculator desktop app built with Electron, React, and Stripe. **A joke/parody project.**
 
+https://calc-max-landing.vercel.app/
+
 ![CalcMaxxing preview](assets/CalcMaxxing.png)
 
 ## Founder's Story
