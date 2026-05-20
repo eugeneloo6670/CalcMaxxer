@@ -4,6 +4,28 @@ A paywalled scientific calculator desktop app built with Electron, React, and St
 
 ![CalcMaxxing preview](assets/CalcMaxxing.png)
 
+![CalcMax founder](assets/Founder.png)
+
+## Founder's Story
+
+I was not always the visionary you see before you today. I began as a basic mathematician, doing ordinary calculations for ordinary people who did not understand the premium potential of numbers.
+
+Then I lost my job. A lesser man would have quit. I did not quit. I simply entered an aggressive outdoor networking phase that some people, inaccurately and without entrepreneurial context, called "begging."
+
+For years, I survived on the streets by providing high-value arithmetic solutions to pedestrians. Percentages. Fractions. Emergency tip calculations. You name it, I monetized it verbally.
+
+Then one day, destiny fell from a schoolboy's bag.
+
+A scientific calculator.
+
+I picked it up, pressed several buttons I did not fully understand, and immediately knew I was holding the future. Within weeks, I was doing advanced math stuff for Fortune 500 companies, Y Combinator startups, FAANG teams, and executives who needed projections so complicated nobody would question them.
+
+I built a fortune. Not by working harder, but by calculating smarter. Also by charging monthly.
+
+Now I am giving you access to the same mathematical success system that changed my life. For only $49.99 a month, CalcMax allows you to experience premium computation, executive-grade answers, and the confidence of a man who has definitely read the terms and conditions.
+
+Do not wait. Numbers are moving right now.
+
 ## Reviews
 
 > ⭐⭐⭐⭐⭐ "I typed `2 + 2`, paid $0.99, and received `4`. Worth every cent. Possibly too cheap."
