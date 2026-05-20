@@ -8,7 +8,9 @@ A paywalled scientific calculator desktop app built with Electron, React, and St
 
 ![CalcMax founder](assets/Founder.png)
 
-<small>our founder (real picture, not edited)</small>
+<p align="center"><sub>our founder (real picture, not edited)</sub></p>
+
+---
 
 I was not always the visionary you see before you today. I began as a basic mathematician, doing ordinary calculations for ordinary people who did not understand the premium potential of numbers.
 
