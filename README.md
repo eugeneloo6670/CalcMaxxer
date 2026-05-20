@@ -2,6 +2,9 @@
 
 A paywalled scientific calculator desktop app built with Electron, React, and Stripe. A joke/parody project.
 
+## Preview
+![CalcMaxxing preview](assets/CalcMaxxing.png)
+
 ## Features
 - Full scientific calculator (trig, log, factorial, etc.)
 - Paywall on every answer — unlock with Stripe test payments
