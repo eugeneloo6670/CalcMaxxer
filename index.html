@@ -238,7 +238,7 @@
         if (!selectedPlan || processing) return;
         setProcessing(true);
         try {
-          const response = await fetch('RAILWAY_BACKEND_URL/create-payment-intent', {
+          const response = await fetch('https://calcmaxxer-production.up.railway.app/create-payment-intent', {
             method: 'POST', headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ amount: selectedPlan.price }),
           });
